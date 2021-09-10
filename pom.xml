@@ -132,7 +132,7 @@
         <configuration>
           <!-- 拉取所需的基础镜像 - 这里用于运行springboot项目 -->
           <from>
-            <image>openjdk:8u212-jdk-stretch</image>
+            <image>openjdk:alpine</image>
           </from>
           <!-- 最后生成的镜像配置 -->
           <to>
